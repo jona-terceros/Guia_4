@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText( view.context, "Opción de Redes Sociales", Toast.LENGTH_LONG).show()
         }
         //Toast.makeText( view.context, "Evento no definido", Toast.LENGTH_LONG).show()
+        //comentarios
     }
 }
 
