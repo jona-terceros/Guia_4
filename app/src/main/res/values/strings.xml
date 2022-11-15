@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guia_4</string>
+    <string name="btn_service">Servicios</string>
+    <string name="btn_portafolio">Portafolio</string>
+    <string name="btn_acerca_de">Acerca de</string>
+    <string name="btn_contacto">Contacto</string>
+    <string name="btn_redes_sociales">Redes Sociales</string>
+    <string name="title">Mi Aplicacion de Negocios</string>
+</resources>
